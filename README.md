@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a passionate Software Developer with a focus on building scalable web applications and mobile apps.  I prioritize effective communication and thrive in collaborative, cross-functional teams. I am committed to continuous learning and staying up-to-date with the latest industry trends and technologies to deliver efficient solutions.<br><br>
-Feel free to explore my GitHub repositories to see examples of my work. If you have any questions, project proposals, or collaboration opportunities, please don't hesitate to reach out!
+I am a passionate Software Developer with a focus on building scalable web applications and mobile apps. I am committed to continuous learning and staying up-to-date with the latest industry trends and technologies. <br><br>
+Feel free to explore my GitHub repositories to see examples of my work.
 
 
 # 💻 Tech Stack:
