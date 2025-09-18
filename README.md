@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Aatish from United States.<br><br>- 🔭 I’m working as a Software Developer.<br>- 📚 I'm currently learning Nuxt.js <br>- ⚡ In my free time I like go running and biking.</p>
+<!-- <p align="left"><br><br> --> - 🔭 I’m am a passionate Software Developer.<br>- 📚 I'm currently learning OAuth and Nuxt.js <br>- ⚡ In my free time I like go running and biking.</p>
 
 ###
 
